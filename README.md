@@ -15,3 +15,13 @@ Ao utilizar o NotebookLM como ferramenta de apoio aos estudos, busco:
 - Criar materiais de revisão e estudo com base nos conteúdos analisados;
 - Explorar diferentes recursos do NotebookLM;
 - Desenvolver uma rotina de estudos mais organizada e eficiente;
+
+## Fontes
+
+Algumas fontes utilizadas para o aprendizado do inglês:
+
+- https://inglesanimado.com.br/2025/06/15/ingles-do-zero-guia-pratico-para-quem-esta-comecando-agora/
+- https://santoevangelho.com.br/wp-content/uploads/2023/02/1000-PALAVRAS-MAIS-USADAS-EM-INGLES.pdf
+- https://www.primecursos.com.br/arquivos/uploads/2014/02/apostila-de-exercicios.pdf
+- https://www.ispsn.org/sites/default/files/documentos-virtuais/pdf/ingles-basico.pdf
+- https://www.wizard.com.br/idiomas/verbo-to-be-guia-completo-para-iniciantes/
